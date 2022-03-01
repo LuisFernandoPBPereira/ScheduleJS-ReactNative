@@ -6,3 +6,5 @@
 
 <h3 align="center">This is all the people information</h3>
 <img src="https://user-images.githubusercontent.com/86135150/156078710-e3e512bc-7b98-4d9b-b3ad-a8262d90e3b1.png">
+
+<p>All the people data is false, the API provides the data for the application</p>
